@@ -1,0 +1,31 @@
+.center{
+	margin: auto;
+	margin-top:5px;
+	width: 50%;	
+}
+
+.searchbox{	
+	margin: 5px;
+	float:right;	
+	width:20px;
+}
+
+.panel-heading{
+	text-align: center;
+}
+
+#sub{
+	margin-top:10px;
+}
+
+#box{
+	z-index: 1;
+}
+
+#container{
+	position: fixed;
+	z-index: 2;
+	border: 1px #000000 solid;
+	background-color: #ffffff;
+	width:160px;
+}
